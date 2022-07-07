@@ -12,4 +12,12 @@ class AppText {
   static const String nusaPenida = "Nusa Penida";
   static const String tanahLot = "Tanah Lot";
 
+  static const List myText = [
+    nusaPenida,
+    tanahLot,
+    holiday,
+    nusaPenida,
+    tanahLot,
+    holiday
+  ];
 }

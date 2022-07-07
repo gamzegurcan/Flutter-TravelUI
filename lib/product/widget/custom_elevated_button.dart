@@ -1,10 +1,5 @@
 import 'package:flutter/material.dart';
 
-// WIDGET DESCRIPTION
-// It is a widget where you can set your button as you want and make new widgets for your own buttons.
-// [Tr] Bu widget projenizde bulunan butonlar için hızlıca kullanabileceğiniz hatta bu widget üzerinden yeni butonlar oluşturabileceğiniz bir yapıdadır.
-// Özel tasarımlar için style tarafında yapılacak tanımlamaları eklemeyi unutmayınız.
-
 class CustomElevatedButton extends StatelessWidget {
   final Widget child;
   final Color? color;

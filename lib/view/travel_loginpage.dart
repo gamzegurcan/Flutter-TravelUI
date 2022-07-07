@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:kartal/kartal.dart';
-import 'package:travel/core/custom_elevated_button.dart';
+import 'package:travel/product/widget/custom_elevated_button.dart';
 
 class TravelLogin extends StatelessWidget {
   const TravelLogin({Key? key}) : super(key: key);
